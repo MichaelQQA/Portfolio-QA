@@ -32,4 +32,4 @@ Po kliknięciu przycisku Post comment strona sie crashuje oraz komenatrz nie zos
 Komenatrz zostaje prawidłowo dodany.
 
 
-[bug](./Assets/Bug-Clips/bug-clip-01.mp4)
+[bug](../../Assets/Bug-Clips/bug-clip-01.mp4)
