@@ -19,7 +19,7 @@ P1 - Krytyczny
 
 **Kroki do Reprodukcji**
 
-* Otwórz stronę: https://markas28.github.io/index.html
+* Otwórz stronę na urządzeniu mobilnym: https://markas28.github.io/index.html
 * Upewnij się, że ekran jest w pionowej orientacji
 
 **Rzeczywisty Rezultat**
