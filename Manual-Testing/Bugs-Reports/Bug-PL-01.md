@@ -17,11 +17,11 @@ P1 - Krytyczny!
 
 **Kroki do Reprodukcji**
 
-* Otwieramy stronę https://academybugs.com/
-* Klikamy w find bugs
-* Klikamy w produkt
-* Wypełniamy pola Comment, Name, Email(jakąkolwiek wartością)
-* Klikamy Post Comment
+* Otwórz stronę https://academybugs.com/
+* Kliknij w find bugs
+* Kliknij w produkt
+* Wypełnij pola Comment, Name, Email(jakąkolwiek wartością)
+* Kliknij Post Comment
 
 **Rzeczywisty Rezultat**
 
