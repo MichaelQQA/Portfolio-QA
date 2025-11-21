@@ -1,6 +1,6 @@
 **Tytuł**
 
-Nieprawidłowa wyświetlanie strony na urządzeniach mobilnych w pionie.
+Nieprawidłowe wyświetlanie strony na urządzeniach mobilnych w pionie.
 
 **Opis**
 
