@@ -17,6 +17,7 @@ Testy następują po sobie w sekwencji, wykorzystując dane przekazane między �
 ##  Wymagane Zmienne 
 
 Zmienne autoryzacyjne (`Key`, `Token`) muszą być ustawione w aktywnym środowisku aby zachować bezpieczeństwo.
+(Pozostałe zmienne **Variables** są zainportowane w colletions)
 
 | Zmienna | Typ | Opis |
 | :--- | :--- | :--- |
