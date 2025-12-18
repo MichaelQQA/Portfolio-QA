@@ -13,18 +13,18 @@ P2 – Major
 
 **Environment**
 
-*Device: PC
-*OS: Windows 11
-*Browser: Chrome
+* Device: PC
+* OS: Windows 11
+* Browser: Chrome
 
 **Steps to Reproduce**
 
-*Open the website: https://shield-germany.de
-*Open any product page (click any product).
-*Add the product to the cart.
-*In the side cart menu, click “ZUM WARENKORB”.
-*In the product quantity field, type a 3-digit value (e.g., 999).
-*Click anywhere outside the quantity input (an empty area on the page).
+* Open the website: https://shield-germany.de
+* Open any product page (click any product).
+* Add the product to the cart.
+* In the side cart menu, click “ZUM WARENKORB”.
+* In the product quantity field, type a 3-digit value (e.g., 999).
+* Click anywhere outside the quantity input (an empty area on the page).
 
 **Actual Result**
 
